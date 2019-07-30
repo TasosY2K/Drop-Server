@@ -18,7 +18,7 @@ $ mv Drop-Server/* /.
 
 ### Screenshot
 
-![Screenshot](https://cdn1.imggmi.com/uploads/2019/7/23/f16bc480f5e530bb7119a0c85d3eca8c-full.png)
+![Screenshot](https://user-images.githubusercontent.com/29873078/62170602-a33f0b80-b334-11e9-84f4-0fea5cb1aa50.png)
 
 ### Live Demo
 
